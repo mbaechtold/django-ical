@@ -1,6 +1,11 @@
 CHANGES
 =======
 
+unreleased
+----------
+
+- Remove support for Python 2.6.
+
 1.4
 ------
 
